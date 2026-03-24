@@ -1,0 +1,15 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "My First Backend Project By Chai and Backend",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Anuj Chand",
+  "license": "ISC"
+}
